@@ -1,8 +1,7 @@
 # 📻 Red Ant RC — yoRadio Remote Control for Android
 
-[![Platform](https://shields.io)](https://github.com)
-[![Hardware](https://shields.io)](https://github.com)
-[![Download](https://shields.io)](https://github.com/releases)
+**[📱 Platform: Android](https://github.com)** • **[📻 Hardware: ESP32 / yoRadio](https://github.com)** • **[📥 Download APK (Releases)](https://github.com/releases)**
+
 
 
 **[EN]** A lightweight, fast, and dark-themed Android Remote Control application designed specifically for managing your **yoRadio (ESP32)** internet radio over your local Wi-Fi network.  
