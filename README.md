@@ -6,7 +6,7 @@ You can control any fork of yoradio version through web.Just type you're radio's
 
 [![Platform](https://shields.io)](https://github.com)
 [![ESP32](https://shields.io)](https://github.com)
-[![Release](https://shields.io)](https://github.com/releases)
+[![Release][(https://shields.io)](https://github.com/releases)](https://github.com/GEOPIS/RED_ANT_WEB-FONTROL-FOR-ANDROID/releases/tag/V1.0)
 
 **[EN]** A lightweight, fast, and dark-themed Android Remote Control application designed specifically for managing your **yoRadio (ESP32)** internet radio over your local Wi-Fi network.  
 **[GR]** Μια ελαφριά, γρήγορη εφαρμογή Android σε σκούρο θέμα (Dark Mode), σχεδιασμένη ειδικά για τον απομακρυσμένο έλεγχο του ιντερνετικού ραδιοφώνου **yoRadio (ESP32)** μέσω τοπικού δικτύου Wi-Fi.
