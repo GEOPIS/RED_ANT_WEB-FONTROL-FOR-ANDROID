@@ -1,5 +1,5 @@
 # RED_ANT_WEB-FONTROL-FOR-ANDROID
-You can control any fork of yoradio version through web.Kust type you're radio's ip!
+You can control any fork of yoradio version through web.Just type you're radio's ip!
 
 
 # 📻 Red Ant RC — yoRadio Remote Control for Android
