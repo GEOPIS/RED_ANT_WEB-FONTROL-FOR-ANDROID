@@ -1,6 +1,6 @@
 # 📻 Red Ant RC — yoRadio Remote Control for Android
 
-**[📱 Platform: Android](https://github.com)** • **[📻 Hardware: ESP32 / yoRadio](https://github.com)** • **[📥 Download APK (Releases)](https://github.com/releases)**
+**[📱 Platform: Android](https://github.com)** • **[📻 Hardware: ESP32 / yoRadio](https://github.com)** • **[📥 Download APK (Releases)]([https://github.com/releases](https://github.com/GEOPIS/RED_ANT_WEB-FONTROL-FOR-ANDROID/releases/tag/V1.0))**
 
 
 
